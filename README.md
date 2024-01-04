@@ -4,7 +4,7 @@
 - 💞️ Create Extensions
 - 📫 Moddified Apps
 - 🏆 Create CS 1.6 Plugin
-- 💬 Ask me about <font color="green">PHP, CSS, JS,</font>[/b]
+- 💬 Ask me about PHP, PS, CSS, Dev-AMXX[/b]
 
 - <b>Programing of Office</b>
 
