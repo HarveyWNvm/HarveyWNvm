@@ -7,6 +7,8 @@
 - 💬 Ask me about PHP, CSS, JS,
 
 - Programing of Office
-<a href="https://www.php.net/ target=" _blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" />
+
+
+- <a href="https://www.php.net/ target=" _blank">
+ <img src="https://i.imgur.com/b6xYwwn.jpg" alt="php logo" />
  </a>
