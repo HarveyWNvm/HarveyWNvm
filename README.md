@@ -6,8 +6,8 @@
 - 🏆 Create CS 1.6 Plugin
 - 💬 Ask me about PHP, CSS, JS,
 
-- Programing of Office
+- <b>Programing of Office</b>
 
 
--  <img src="https://i.imgur.com/b6xYwwn.jpg" alt="php logo" />
+<img src="https://i.imgur.com/b6xYwwn.jpg" alt="php logo" />
 
