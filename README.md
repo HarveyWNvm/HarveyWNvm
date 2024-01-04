@@ -9,6 +9,5 @@
 - Programing of Office
 
 
-- <a href="https://www.php.net/ target=" _blank">
- <img src="https://i.imgur.com/b6xYwwn.jpg" alt="php logo" />
- </a>
+-  <img src="https://i.imgur.com/b6xYwwn.jpg" alt="php logo" />
+
