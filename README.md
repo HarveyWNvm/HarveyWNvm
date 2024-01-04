@@ -6,7 +6,7 @@
 - 📫 Moddified Apps
 - 🏆 Create CS 1.6 Plugin
 - 💬 Ask me about PHP, PS, CSS, Dev-AMXX
-- </b>
+</b>
 
 - <b>Programing of Office</b>
 
